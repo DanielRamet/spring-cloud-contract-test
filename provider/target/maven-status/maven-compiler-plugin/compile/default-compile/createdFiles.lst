@@ -1,0 +1,7 @@
+base\PersonRestController.class
+base\Person.class
+base\exceptions\CustomExceptionNotFound.class
+base\ProducerApplication.class
+base\exceptions\ContractError.class
+base\exceptions\CustomException.class
+base\PersonService.class

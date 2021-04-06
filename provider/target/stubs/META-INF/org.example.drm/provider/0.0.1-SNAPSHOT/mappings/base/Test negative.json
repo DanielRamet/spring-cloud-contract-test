@@ -1,0 +1,16 @@
+{
+  "id" : "9ee93e1f-2fdd-4f2f-906c-375797c35646",
+  "request" : {
+    "url" : "/person/-2",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 400,
+    "body" : "{\"status\":400,\"message\":\"The id cannot be negative\"}",
+    "headers" : {
+      "Content-Type" : "application/json"
+    },
+    "transformers" : [ "response-template", "spring-cloud-contract" ]
+  },
+  "uuid" : "9ee93e1f-2fdd-4f2f-906c-375797c35646"
+}

@@ -1,0 +1,6 @@
+META-INF\org.example.drm\provider\0.0.1-SNAPSHOT\mappings\base\Create Test negative.json
+META-INF\org.example.drm\provider\0.0.1-SNAPSHOT\contracts\base\find_person_by_id.groovy
+META-INF\org.example.drm\provider\0.0.1-SNAPSHOT\mappings\base\Test negative.json
+META-INF\org.example.drm\provider\0.0.1-SNAPSHOT\contracts\base\find_person_negative.groovy
+META-INF\org.example.drm\provider\0.0.1-SNAPSHOT\contracts\base\create_person_exception.groovy
+META-INF\org.example.drm\provider\0.0.1-SNAPSHOT\mappings\base\Test positive.json
